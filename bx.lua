@@ -7,7 +7,7 @@ local LocalPlayer = Players.LocalPlayer
 -- Konfigurasi
 local Config = {
     Key = "Gk7hJsil3ntPaX",
-    Url = "https://ouo.io/qPXABJm",
+    Url = "https://pastebin.com/uU625htW",
     MaxAttempts = 3,
     CurrentAttempts = 0
 }
