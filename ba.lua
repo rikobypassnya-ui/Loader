@@ -224,7 +224,7 @@ VerifyButton.MouseButton1Click:Connect(function()
         ----------------------------------------------------
         -- EKSEKUSI SCRIPT ANDA DI SINI
         ----------------------------------------------------
-        loadstring(game:HttpGet("https://pastebin.com/raw/pAAdQFFa"))()
+        loadstring(game:HttpGet("https://pastebin.com/raw/HxcBEfkf"))()
         
     else
         -- KEY SALAH
